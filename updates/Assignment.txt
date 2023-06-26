@@ -1,0 +1,164 @@
+Assignment 1
+
+1. Write a Java program to find the index of an array element.
+2. You will be given an array and you need to find the third largest 
+
+(DONE---)3. You are given array consisting of n integers. Your task is to find the maximum length of an increasing subarray of the given array.
+
+A subarray is the sequence of consecutive elements of the array. Subarray is called increasing if each element of this subarray strictly greater than previous.
+i/p-5 1  7  2  11  15
+o/p -3
+
+4. Rearrange Everything
+Given an array of size n where all elements are in range from 0 to n-1, change contents of arr[] so that arr[i] = j is changed to arr[j] = i.
+i/p - 22   13 9 41
+o/p  - 22  9  13  41
+
+
+(DONE---)LL
+Implement Linled List function 
+1. insertAtBeg
+2. insertAtLAst
+1. deleteAtBeg
+2. deleteAtLAst
+5. display
+
+Day2
+
+(DONE---) Q.1 Implement singly Circular Linked List
+
+(DONE---) Q.2 Implement Doubly Linked List
+
+(DONE---) 3. How do you find the length of a singly linked list?
+
+(DONE---) 4. How are duplicate nodes removed in an unsorted linked list?
+
+
+(DONE---) 5. How do you find the middle element of a singly linked list in one pass?
+
+(DONE---) 6. Java Program To Merge A Linked List Into Another Linked List At Alternate Positions.
+
+(DONE---) 7. How do you check if a given linked list contains a cycle? 
+How do you find the starting node of the cycle?
+
+8. Given a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.
+
+(DONE---) 9. How to check if a given linked list is a palindrome?
+
+10. You are given N numbers and a integer K. Your task is to reverse all the numbers before and after K.
+i/p-
+6 5
+1 2 3 4 5 6
+
+o/p-4 3 2 1 5 6
+
+11.a singly linked list of integers such that all elements are inserted in ascending order.
+
+Eg.
+i/p
+ 20, 5, 10, 30, 25
+
+o/p
+ 5,10, 20, 25, 30
+				   		       th 
+12. Consider a singly linked list. Rotate the list from k   position from the last node.
+Eg.
+  k = 2
+10, 20, 30, 40, 50
+
+After rotation
+o/p
+40, 50, 10, 20, 30
+
+13. Create a singly linked list of integers such that all elements are inserted 
+as per given order - 20 40, 5, 3, 60, 50
+for insertion call various functions of insertion then delet elements from list by calling 
+delAtBeg(), atPos(3), delAtLast() also display list after every deletion and after all insertion
+i/p - 20 40, 5, 3, 60, 50
+o/p -20 40, 5, 3, 60, 50
+after del-
+o/p- 40, 3, 60
+
+(DONE---) 14. Write a program to reverse nodes of SLL
+15. Create a singly linked list of integers such that all elements are inserted in ascending order.
+
+Eg.
+i/p
+ 20, 5, 10, 30, 25
+
+o/p
+ 5,10, 20, 25, 30
+
+					               
+Q.16. Write a program to implement DCLL
+
+(DONE---)Q.17 Write a search operation in every LL to search an 
+element passed by user
+
+Assignment day 3 - stack
+
+(DONE---) Stack implementation using an array
+
+Stack Implementation using a Linked List
+Reverse String
+Given a string, revese it with the help of stack. Please do not use direct function available in the respective library.
+
+
+Infix To Postfix
+Given an expression in its infix form, convert it into postfix form.
+
+
+(DONE---) Check if an expression is balanced or not
+Find duplicate parenthesis in an expression
+Evaluate a postfix expression
+
+Convert an infix expression into a postfix expression
+Reverse a stack using recursion
+
+try to solve Cannibal Characters on hackerearth
+
+https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/cannibal-characters-d30e8a5f/
+
+
+A basic queue has the following operations:
+
+(DONE---) Enqueue: add a new element to the end of the queue.
+Dequeue: remove the element from the front of the queue and return it.
+
+Your first task is to implement a queue. 
+Then process  queries, where each query can be of three following types:
+
+
+1 x:  Enqueue element  into the end of the queue.
+2  :  Dequeue the element at the front of the queue.
+3  :  Print the element at the front of the queue.
+
+i/p-
+5
+1 5
+1 6
+3
+2
+3
+o/p- 
+5
+6
+
+(DONE---) Accept 3 strings from user and print output in the similar format as the given example. 
+i/p-
+3
+Hello
+String
+Queue
+
+o/p-
+Hoell
+Sgtnri
+Qeuue
+
+(DONE---)1. Implement liner queue by array & linked List
+2. Implement Circular queue by array(DONE---) & Linked List
+
+
+
+
